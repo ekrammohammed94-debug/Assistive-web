@@ -1,2 +1,0 @@
-# Assistive-web
-Assistive web
